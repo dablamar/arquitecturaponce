@@ -19,3 +19,9 @@ File Description: Place here your custom CSS styles
 .titulo{
 	font-family: 'interdim';
 }
+
+.about p{
+	text-indent: 60px;
+	text-align: justify;
+	font-size: 17px;
+}
