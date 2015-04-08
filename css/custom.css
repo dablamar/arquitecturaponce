@@ -7,18 +7,6 @@ Created:November 2014
 License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
 File Description: Place here your custom CSS styles
 */
-@font-face {
-	font-family: 'interdim';
-	src: url('fonts/interdim-webfont-webfont.eot');
-	src: url('fonts/interdim-webfont-webfont.eot?#iefix') format('embedded-opentype'),
-		url('fonts/interdim-webfont-webfont.woff') format('woff'),
-		url('fonts/interdim-webfont-webfont.ttf') format('truetype'),
-		url('fonts/interdim-webfont-webfont.svg#futura_bk_btbook') format('svg');
-}
-
-.titulo{
-	font-family: 'interdim';
-}
 
 .about p{
 	text-indent: 60px;
