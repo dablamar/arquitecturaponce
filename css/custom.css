@@ -18,3 +18,8 @@ File Description: Place here your custom CSS styles
 	text-align: right !important;
 	font-style: italic;
 }
+
+.centrado {
+	margin-left: auto;
+	margin-right: auto;
+}
