@@ -23,3 +23,27 @@ File Description: Place here your custom CSS styles
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.titulo {
+	font-size: 38px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.azul {
+	color: #339BEB;
+}
+
+.negrita {
+	font-weight: bold;
+}
+
+.cursiva {
+	font-style: italic;
+}
+
+.modal-body p{
+	text-indent: 60px;
+	text-align: justify;
+}
+	
