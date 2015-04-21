@@ -716,3 +716,53 @@ textarea {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
+
+/* CUSTOM */
+
+.about p{
+	text-indent: 60px;
+	text-align: justify;
+	font-size: 17px;
+}
+
+.signature {
+	text-align: right !important;
+	font-style: italic;
+}
+
+.centrado {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.titulo {
+	font-size: 38px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.azul {
+	color: #339BEB;
+}
+
+.negrita {
+	font-weight: bold;
+}
+
+.cursiva {
+	font-style: italic;
+}
+
+.modal-body p{
+	text-indent: 60px;
+	text-align: justify;
+}
+
+.hashtag-twitter {
+	padding: 0;
+	font-size: 14px;
+}
+
+.logoPortada {
+	margin-bottom: 20px;
+}
