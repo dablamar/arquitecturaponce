@@ -46,4 +46,9 @@ File Description: Place here your custom CSS styles
 	text-indent: 60px;
 	text-align: justify;
 }
+
+.hashtag-twitter {
+	padding: 0;
+	font-size: 14px;
+}
 	
