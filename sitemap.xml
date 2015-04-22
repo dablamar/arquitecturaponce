@@ -4,10 +4,132 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<url>
-  <loc>http://www.arquitecturaponce.com/</loc>
-  <lastmod>2015-04-09T12:38:18+00:00</lastmod>
-</url>
+	<url>
+	  <loc>http://www.arquitecturaponce.com/</loc>
+	  <lastmod>2015-04-09T12:38:18+00:00</lastmod>
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/logo-arquitectura-ponce.png</image:loc>
+		<image:title>Logo Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image>
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/escuela/concurso-escula-infantil-valencia-principal.jpg</image:loc>
+		<image:title>Concurso arquitectura para escuela infantil en Valencia(by Arquitectura Ponce)</image:title>
+		<image:geo_location>Valencia, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image>
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/escuela/concurso-escula-infantil-valencia-exterior.jpg</image:loc>
+		<image:title>Concurso arquitectura para escuela infantil en Valencia(by Arquitectura Ponce)</image:title>
+		<image:geo_location>Valencia, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image>
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/escuela/concurso-escula-infantil-valencia-jardin.jpg</image:loc>
+		<image:title>(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image>
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/fuente/Plaza-mayor-La-Pesqura-frontal.jpg</image:loc>
+		<image:title>Modificación del entorno de la Plaza Mayor de La Pesquera(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image>
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/fuente/Plaza-mayor-La-Pesqura-lateral.jpg</image:loc>
+		<image:title>Modificación del entorno de la Plaza Mayor de La Pesquera(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/fuente/Plaza-mayor-La-Pesqura-detalle.jpg</image:loc>
+		<image:title>Modificación del entorno de la Plaza Mayor de La Pesquera(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/carretera/Paseo-carretera-La-Pesquera-acabado.jpg</image:loc>
+		<image:title>Terminación del paseo de acceso a La Pesquera(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/carretera/Paseo-carretera-La-Pesquera-previo.jpg</image:loc>
+		<image:title>Previo de proyecto de terminación del paseo de acceso a La Pesquera(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/carretera/Paseo-carretera-La-Pesquera-replanteo.jpg</image:loc>
+		<image:title>Replanteo de terminación del paseo de acceso a La Pesquera(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/carretera/Paseo-carretera-La-Pesquera-zanjas.jpg</image:loc>
+		<image:title>Zanjas de terminación del paseo de acceso a La Pesquera(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/carretera/Paseo-carretera-La-Pesquera-rampas.jpg</image:loc>
+		<image:title>Rampas de terminación del paseo de acceso a La Pesquera(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/carretera/Paseo-carretera-La-Pesquera-gravas.jpg</image:loc>
+		<image:title>Gravas de terminación del paseo de acceso a La Pesquera(by Arquitectura Ponce)</image:title>
+		<image:geo_location>La Pesquera, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/proyecto/Proyecto-legalizacion-frontal.jpg</image:loc>
+		<image:title>Proyecto de lagalización de vivienda en Minglanilla(by Arquitectura Ponce)</image:title>
+		<image:geo_location>Minglanilla, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/proyecto/Proyecto-legalizacion-trasera.jpg</image:loc>
+		<image:title>Proyecto de lagalización de vivienda en Minglanilla(by Arquitectura Ponce)</image:title>
+		<image:geo_location>Minglanilla, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/vivienda/Proyecto-ampliacion-vivienda-unifamiliar-Minglanilla-frontal.jpg</image:loc>
+		<image:title>Proyecto de ampliación de vivienda unifamiliar en Minglanilla (by Arquitectura Ponce)</image:title>
+		<image:geo_location>Minglanilla, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	  <image:image>
+		<image:loc>http://www.arquitecturaponce.com/images/vivienda/Proyecto-ampliacion-vivienda-unifamiliar-Minglanilla-trasera.jpg</image:loc>
+		<image:title>Proyecto de ampliación de vivienda unifamiliar en Minglanilla (by Arquitectura Ponce)</image:title>
+		<image:geo_location>Minglanilla, Cuenca, España</image:geo_location>
+		<image:license>http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode</image:license>
+	  </image:image
+	  
+	 	  
+	  	  
+	</url>
+	
 </urlset>
