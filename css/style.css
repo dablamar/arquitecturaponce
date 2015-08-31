@@ -771,3 +771,19 @@ textarea {
 .oculto {
 	display: none;
 }
+
+.quotes {
+	margin-top: 272px !important;
+}
+
+.quotesRow {
+	margin-left: 67%;
+}
+
+.quotesText {
+	font-style: italic;
+}
+
+.quotesAuthor {
+	font-style: italic;
+}
